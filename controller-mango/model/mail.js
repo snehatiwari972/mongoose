@@ -9,7 +9,7 @@ async function sendMail(toMail, subject,text){
         service: "gmail",
         auth: {
             user: "snehatiwari972@gmail.com",
-            pass: "cyljjmiesujdhfhw"
+            pass: "" // Here We Put Password
         }
     })
 
